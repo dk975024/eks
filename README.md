@@ -1,5 +1,6 @@
 vim Dockerfile   //create docker file 
 vim index.html  //create index.html file
+vim index-deployment.yaml //create deployment file 
 aws configure //configure aws cli add access key and cgrate key with ec2 full permition 
 eksctl create cluster --name my-cluster-demo  //create cluster
 vim index-deployment.yaml  //create deployment file 
